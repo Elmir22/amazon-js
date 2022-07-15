@@ -13,6 +13,6 @@ $(document).ready(function () {
             z($('input').val());
         }
         $('input').val('') 
-    });
-
+    })
+    
 });
